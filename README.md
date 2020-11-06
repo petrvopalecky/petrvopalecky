@@ -4,4 +4,4 @@
 - Czech Republic
 - https://petrvopalecky.github.io/
 
-#####  Just messin' around
+#####  ... just messin' around.
